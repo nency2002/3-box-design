@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1140px;
+    margin:auto;
+    background-color: rgb(112, 112, 130);
+}
+.box{
+    max-width: 900px;
+    background-color: rgb(191, 123, 136);
+}
+.box2{
+    
+    min-height: 50px;
+    background-color: aqua;
+}
